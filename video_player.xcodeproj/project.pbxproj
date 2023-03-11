@@ -16,6 +16,7 @@
 		7783764129B99CD800D2D6B1 /* video_playerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7783764029B99CD800D2D6B1 /* video_playerTests.swift */; };
 		7783764B29B99CD800D2D6B1 /* video_playerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7783764A29B99CD800D2D6B1 /* video_playerUITests.swift */; };
 		7783764D29B99CD800D2D6B1 /* video_playerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7783764C29B99CD800D2D6B1 /* video_playerUITestsLaunchTests.swift */; };
+		77946EDB29BCDABA00326710 /* test.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 77946EDA29BCDAB900326710 /* test.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		7783764629B99CD800D2D6B1 /* video_playerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = video_playerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7783764A29B99CD800D2D6B1 /* video_playerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITests.swift; sourceTree = "<group>"; };
 		7783764C29B99CD800D2D6B1 /* video_playerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		77946EDA29BCDAB900326710 /* test.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				7783762B29B99CD600D2D6B1 /* SceneDelegate.swift */,
 				7783762D29B99CD600D2D6B1 /* ViewController.swift */,
 				7783762F29B99CD600D2D6B1 /* Main.storyboard */,
+				77946EDA29BCDAB900326710 /* test.mp4 */,
 				7783763229B99CD800D2D6B1 /* Assets.xcassets */,
 				7783763429B99CD800D2D6B1 /* LaunchScreen.storyboard */,
 				7783763729B99CD800D2D6B1 /* Info.plist */,
@@ -234,6 +237,7 @@
 				7783763629B99CD800D2D6B1 /* LaunchScreen.storyboard in Resources */,
 				7783763329B99CD800D2D6B1 /* Assets.xcassets in Resources */,
 				7783763129B99CD600D2D6B1 /* Main.storyboard in Resources */,
+				77946EDB29BCDABA00326710 /* test.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
